@@ -1,6 +1,6 @@
 # 🚀 Modern Web 3.0 Blockchain Application  
 
-> A decentralized Web 3.0 app built using Solidity, Smart Contracts, and modern front-end technologies — inspired by the [JavaScript Mastery](https://www.youtube.com/watch?v=Wn_Kb3MR_cU) tutorial.
+> A decentralized Web 3.0 app built using Solidity, Smart Contracts, and modern front-end technologies 
 
 ## ✨ Features  
 - 💸 Ethereum transactions using Smart Contracts (Solidity)  
